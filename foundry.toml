@@ -1,0 +1,4 @@
+[profile.default]
+solc_version = "0.8.29"
+evm_version = "cancun"
+remappings = ["@reactive/=lib/reactive-lib-omni/"]

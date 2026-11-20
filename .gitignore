@@ -1,0 +1,7 @@
+cache/
+out/
+lib/
+.env
+__pycache__/
+deployment.json
+deployment.tmp
